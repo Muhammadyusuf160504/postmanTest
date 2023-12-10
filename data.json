@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "firstName": "Muhammadrizo3",
+      "lastName": "Ne'matjonov3",
+      "age": 19,
+      "imgURL": "",
+      "id": 1
+    },
+    {
+      "firstName": "vfv",
+      "lastName": "vfdv",
+      "age": "435",
+      "imgURL": "http://apple",
+      "id": "2023-12-10T19:21:41.672Z"
+    },
+    {
+      "firstName": "fvfv",
+      "lastName": "fvfv",
+      "age": "2",
+      "imgURL": "http://apple",
+      "id": "2023-12-10T20:48:49.691Z"
+    },
+    {
+      "firstName": "fvfv",
+      "lastName": "Ne'matjonov",
+      "age": "2",
+      "imgURL": "http://apple",
+      "id": "2023-12-10T20:52:25.951Z"
+    },
+    {
+      "firstName": "Muhammadyusuf",
+      "lastName": "Ne'matjonov",
+      "age": "3",
+      "imgURL": "http://apple",
+      "id": "2023-12-10T20:52:39.055Z"
+    },
+    {
+      "firstName": "fvfv",
+      "lastName": "Ne'matjonov",
+      "age": "1",
+      "imgURL": "http://apple",
+      "id": "2023-12-10T20:53:11.839Z"
+    }
+  ]
+}

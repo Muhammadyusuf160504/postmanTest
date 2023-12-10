@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./index.css" />
+    <title>Amaliyot</title>
+  </head>
+  <body class="container">
+    <h1>Malumot qo'shish</h1>
+    <form class="formContainer">
+      <label>
+        <span>FirstName:</span>
+        <input id="firstname" type="text" required />
+      </label>
+      <label>
+        <span>LastName:</span>
+        <input id="lastname" type="text" required />
+      </label>
+      <label>
+        <span>Age:</span>
+        <input id="age" type="number" required />
+      </label>
+      <label>
+        <span>Image URL:</span>
+        <input id="url" type="url" required />
+      </label>
+      <button type="submit" id="post">Add</button>
+    </form>
+    <ul id="ulContainer"></ul>
+
+    <script src="index.js"></script>
+  </body>
+</html>
